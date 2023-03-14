@@ -1,4 +1,4 @@
-<h1> Template Managemetn Portal </h1>
+<h1> Template Management Portal </h1>
 
 <hr>
 
